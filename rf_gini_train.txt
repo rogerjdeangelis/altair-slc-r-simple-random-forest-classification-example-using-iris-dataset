@@ -1,0 +1,6 @@
+             V1    setosa versicolor virginica MeanDecreaseAccuracy MeanDecreaseGini
+         <char>     <num>      <num>     <num>                <num>            <num>
+1: Sepal_Length  3.204523   2.673254  4.358053             4.915129         7.290170
+2:  Sepal_Width  1.005038   1.055986  2.523677             1.834464         1.714855
+3: Petal_Length 10.714258  12.051486 13.470437            14.398589        33.101948
+4:  Petal_Width  8.610160  11.996547 14.754868            13.965732        29.879464

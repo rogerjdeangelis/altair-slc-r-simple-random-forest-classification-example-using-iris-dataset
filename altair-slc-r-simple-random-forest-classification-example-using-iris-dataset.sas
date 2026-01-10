@@ -4,7 +4,8 @@ Altair slc r simple random forest classification example using iris dataset
 
 %stop_submission;
 
-/*---
+Too long to post here, see github
+https://github.com/rogerjdeangelis/altair-slc-r-simple-random-forest-classification-example-using-iris-dataset
 
 PROBLEM
 
